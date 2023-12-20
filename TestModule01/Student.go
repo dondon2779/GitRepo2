@@ -1,6 +1,7 @@
 package TestModule01
 
 type Student struct {
-	Age  int
-	Name string
+	Age    int
+	Name   string
+	Weight float64
 }
